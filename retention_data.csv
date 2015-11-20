@@ -1,0 +1,1335 @@
+,retention_rate,school
+0,99%,Columbia University
+1,99%,University of Chicago
+2,99%,Yale University
+3,98%,Brown University
+4,98%,Dartmouth College
+5,98%,Massachusetts Institute of Technology
+6,98%,Princeton University
+7,98%,Stanford University
+8,98%,University of Notre Dame
+9,98%,University of Pennsylvania
+10,97%,California Institute of Technology
+11,97%,Cornell University
+12,97%,Duke University
+13,97%,Harvard University
+14,97%,Johns Hopkins University
+15,97%,Northwestern University
+16,97%,Rice University
+17,97%,University of California-- Berkeley
+18,97%,University of California-- Los Angeles
+19,97%,University of Michigan-- Ann Arbor
+20,97%,University of North Carolina-- Chapel Hill
+21,97%,University of Southern California
+22,97%,University of Virginia
+23,97%,Vanderbilt University
+24,97%,Washington University in St. Louis
+25,96%,College of William and Mary
+26,96%,Georgetown University
+27,96%,Georgia Institute of Technology
+28,96%,Northeastern University
+29,96%,Tufts University
+30,96%,University of Florida
+31,96%,University of Rochester
+32,96%,Worcester Polytechnic Institute
+33,95%,Boston College
+34,95%,Carnegie Mellon University
+35,95%,Emory University
+36,95%,Lehigh University
+37,95%,Stevens Institute of Technology
+38,95%,University of California-- San Diego
+39,95%,University of Maryland-- College Park
+40,95%,University of Wisconsin-- Madison
+41,94%,Brandeis University
+42,94%,University of Georgia
+43,94%,University of Illinois-- Urbana- Champaign
+44,94%,University of Texas-- Austin
+45,94%,Wake Forest University
+46,93%,Boston University
+47,93%,Case Western Reserve University
+48,93%,George Washington University
+49,93%,Illinois Institute of Technology
+50,93%,Ohio State University-- Columbus
+51,93%,Rensselaer Polytechnic Institute
+52,93%,University of California-- Davis
+53,93%,University of California-- Irvine
+54,93%,University of Connecticut
+55,93%,University of Washington
+56,92%,Florida State University
+57,92%,New York University
+58,92%,North Carolina State University-- Raleigh
+59,92%,Pennsylvania State University-- University Park
+60,92%,Pepperdine University
+61,92%,Purdue University-- West Lafayette
+62,92%,"Rutgers, The State University of New Jersey-- New Brunswick"
+63,92%,Syracuse University
+64,92%,University of California-- Santa Barbara
+65,92%,University of Delaware
+66,92%,University of Miami
+67,92%,University of Pittsburgh
+68,92%,Virginia Tech
+69,91%,Binghamton University-- SUNY
+70,91%,Clemson University
+71,91%,Colorado School of Mines
+72,91%,Michigan State University
+73,91%,Texas A&M University-- College Station
+74,91%,University of Minnesota-- Twin Cities
+75,91%,Yeshiva University
+76,90%,Auburn University
+77,90%,Marquette University
+78,90%,Miami University-- Oxford
+79,90%,Southern Methodist University
+80,90%,Stony Brook University-- SUNY
+81,90%,Tulane University
+82,90%,University of California-- Santa Cruz
+83,89%,American University
+84,89%,Clark University
+85,89%,Duquesne University
+86,89%,Fordham University
+87,89%,Indiana University-- Bloomington
+88,89%,San Diego State University
+89,89%,Texas Christian University
+90,89%,University of California-- Riverside
+91,89%,University of Dayton
+92,89%,University of Massachusetts-- Amherst
+93,89%,University of San Diego
+94,89%,University of South Florida
+95,88%,Brigham Young University-- Provo
+96,88%,Clarkson University
+97,88%,Saint Louis University
+98,88%,Temple University
+99,88%,University at Buffalo-- SUNY
+100,88%,University of Central Florida
+101,88%,University of South Carolina
+102,88%,University of Tulsa
+103,88%,University of Utah
+104,87%,Baylor University
+105,87%,George Mason University
+106,87%,Iowa State University
+107,87%,University of Alabama
+108,87%,University of Denver
+109,87%,University of Maryland-- Baltimore County
+110,87%,University of San Francisco
+111,87%,University of St. Thomas
+112,86%,Biola University
+113,86%,DePaul University
+114,86%,Loyola University Chicago
+115,86%,Maryville University of St. Louis
+116,86%,University of Cincinnati
+117,86%,University of Iowa
+118,86%,University of La Verne
+119,86%,University of New Hampshire
+120,86%,University of Oregon
+121,86%,University of Tennessee
+122,86%,University of Texas-- Dallas
+123,86%,University of Vermont
+124,86%,Virginia Commonwealth University
+125,85%,Azusa Pacific University
+126,85%,Colorado State University
+127,85%,Drexel University
+128,85%,"Rutgers, The State University of New Jersey-- Newark"
+129,85%,St. John Fisher College
+130,85%,SUNY College of Environmental Science and Forestry
+131,85%,University of Missouri
+132,85%,University of Oklahoma
+133,85%,University of the Pacific
+134,84%,Arizona State University-- Tempe
+135,84%,Louisiana State University-- Baton Rouge
+136,84%,Missouri University of Science & Technology
+137,84%,New Jersey Institute of Technology
+138,84%,Seton Hall University
+139,84%,University of Colorado-- Boulder
+140,84%,University of Houston
+141,84%,University of Nebraska-- Lincoln
+142,83%,Florida International University
+143,83%,Georgia State University
+144,83%,Illinois State University
+145,83%,Michigan Technological University
+146,83%,New School
+147,83%,Oregon State University
+148,83%,University at Albany-- SUNY
+149,83%,University of Mississippi
+150,82%,Adelphi University
+151,82%,The Catholic University of America
+152,82%,Howard University
+153,82%,Kansas State University
+154,82%,Texas Tech University
+155,82%,University of Arkansas
+156,82%,University of Kentucky
+157,82%,University of Massachusetts-- Lowell
+158,82%,University of Rhode Island
+159,82%,Washington State University
+160,81%,Edgewood College
+161,81%,Florida A&M University
+162,81%,Immaculata University
+163,81%,Mississippi State University
+164,81%,University of Alabama-- Birmingham
+165,80%,East Carolina University
+166,80%,Georgia Southern University
+167,80%,Ohio University
+168,80%,Oklahoma State University
+169,80%,Old Dominion University
+170,80%,University of Arizona
+171,80%,University of Kansas
+172,80%,University of Nevada-- Reno
+173,79%,Andrews University
+174,79%,Ball State University
+175,79%,Florida Institute of Technology
+176,79%,Hofstra University
+177,79%,North Dakota State University
+178,79%,St. John's University
+179,79%,University of Alabama-- Huntsville
+180,79%,University of Hawaii-- Manoa
+181,79%,University of Illinois-- Chicago
+182,79%,University of Louisville
+183,79%,University of North Carolina-- Charlotte
+184,78%,Jackson State University
+185,78%,Kent State University
+186,78%,Louisiana Tech University
+187,78%,St. Mary's University of Minnesota
+188,78%,University of Arkansas-- Little Rock
+189,78%,University of Idaho
+190,78%,University of Maine
+191,78%,University of Massachusetts-- Boston
+192,78%,University of Missouri-- St. Louis
+193,77%,Florida Atlantic University
+194,77%,North Carolina A&T State University
+195,77%,Pace University
+196,77%,Regent University
+197,77%,University of Memphis
+198,77%,University of Nevada-- Las Vegas
+199,77%,University of New Mexico
+200,77%,University of North Dakota
+201,77%,University of North Texas
+202,77%,West Virginia University
+203,76%,Central Michigan University
+204,76%,Sam Houston State University
+205,76%,University of Alaska-- Fairbanks
+206,76%,University of North Carolina-- Greensboro
+207,76%,University of South Dakota
+208,76%,Wayne State University
+209,75%,Benedictine University
+210,75%,Indiana University of Pennsylvania
+211,75%,Montana State University
+212,75%,Oakland University
+213,75%,South Dakota State University
+214,75%,University of Louisiana-- Lafayette
+215,75%,University of Wyoming
+216,75%,Western Michigan University
+217,74%,Ashland University
+218,74%,Morgan State University
+219,74%,Northern Arizona University
+220,74%,Trevecca Nazarene University
+221,74%,University of Colorado-- Denver
+222,74%,University of Nebraska-- Omaha
+223,74%,University of Texas-- Arlington
+224,74%,University of Texas-- El Paso
+225,74%,Widener University
+226,73%,Bowie State University
+227,73%,New Mexico State University
+228,73%,Portland State University
+229,73%,Spalding University
+230,73%,Trinity International University
+231,73%,University of Missouri-- Kansas City
+232,73%,University of Montana
+233,73%,University of Southern Mississippi
+234,72%,Bowling Green State University
+235,72%,Indiana University- Purdue University-- Indianapolis
+236,72%,National Louis University
+237,72%,Nova Southeastern University
+238,72%,University of West Florida
+239,72%,Wichita State University
+240,70%,Middle Tennessee State University
+241,70%,Northern Illinois University
+242,70%,University of Akron
+243,70%,University of Wisconsin-- Milwaukee
+244,70%,Utah State University
+245,69%,Cardinal Stritch University
+246,69%,Texas A&M University-- Commerce
+247,69%,Texas Woman's University
+248,68%,East Tennessee State University
+249,68%,University of Northern Colorado
+250,68%,University of South Alabama
+251,67%,Cleveland State University
+252,67%,Lynn University
+253,67%,University of New Orleans
+254,66%,University of Toledo
+255,64%,Southern Illinois University-- Carbondale
+256,63%,Clark Atlanta University
+257,63%,Our Lady of the Lake University
+258,63%,South Carolina State University
+259,63%,University of Texas-- San Antonio
+260,62%,Indiana State University
+261,62%,Tennessee State University
+262,62%,Texas A&M University-- Kingsville
+263,62%,Wright State University
+264,59%,Lamar University
+265,58%,Barry University
+266,58%,Texas A&M University-- Corpus Christi
+267,58%,Texas Southern University
+268,98%,Amherst College
+269,98%,Harvey Mudd College
+270,98%,Pomona College
+271,97%,Bowdoin College
+272,97%,Carleton College
+273,97%,Haverford College
+274,97%,United States Naval Academy
+275,97%,Williams College
+276,96%,Barnard College
+277,96%,Claremont McKenna College
+278,96%,Davidson College
+279,96%,Hillsdale College
+280,96%,Kenyon College
+281,96%,Middlebury College
+282,96%,Soka University of America
+283,96%,Swarthmore College
+284,96%,Vassar College
+285,96%,Washington and Lee University
+286,96%,Wellesley College
+287,95%,Colgate University
+288,95%,College of the Holy Cross
+289,95%,Colorado College
+290,95%,Hamilton College
+291,95%,United States Military Academy
+292,95%,Wesleyan University
+293,95%,Wheaton College
+294,94%,Bates College
+295,94%,Bucknell University
+296,94%,Colby College
+297,94%,Grinnell College
+298,94%,Lafayette College
+299,94%,Macalester College
+300,94%,Reed College
+301,94%,Skidmore College
+302,94%,Smith College
+303,94%,St. Olaf College
+304,94%,University of Richmond
+305,94%,Whitman College
+306,93%,Oberlin College
+307,93%,Occidental College
+308,93%,Scripps College
+309,93%,Union College
+310,92%,DePauw University
+311,92%,Franklin and Marshall College
+312,92%,Kalamazoo College
+313,92%,Pitzer College
+314,92%,United States Air Force Academy
+315,91%,Bryn Mawr College
+316,91%,Centre College
+317,91%,Gustavus Adolphus College
+318,91%,Mount Holyoke College
+319,91%,Muhlenberg College
+320,91%,Rhodes College
+321,91%,St. Lawrence University
+322,90%,Connecticut College
+323,90%,Denison University
+324,90%,Dickinson College
+325,90%,Gettysburg College
+326,90%,Grove City College
+327,90%,Hope College
+328,90%,Illinois Wesleyan University
+329,90%,Thomas Aquinas College
+330,90%,Trinity College
+331,90%,Ursinus College
+332,89%,Beloit College
+333,89%,College of St. Benedict
+334,89%,College of Wooster
+335,89%,Furman University
+336,89%,Lawrence University
+337,89%,Sewanee-- University of the South
+338,89%,Spelman College
+339,89%,St. Michael's College
+340,89%,Wofford College
+341,88%,Hobart and William Smith Colleges
+342,88%,Juniata College
+343,88%,Knox College
+344,88%,St. Mary's College
+345,88%,St. Mary's College of Maryland
+346,88%,Stonehill College
+347,87%,Bard College
+348,87%,Calvin College
+349,87%,Houghton College
+350,87%,Lewis & Clark College
+351,87%,Luther College
+352,87%,Sarah Lawrence College
+353,87%,Siena College
+354,87%,St. Anselm College
+355,87%,University of Puget Sound
+356,87%,Westmont College
+357,86%,Allegheny College
+358,86%,St. John's College
+359,86%,Transylvania University
+360,86%,Virginia Military Institute
+361,86%,Wabash College
+362,86%,Willamette University
+363,85%,Augustana College
+364,85%,Earlham College
+365,85%,Hendrix College
+366,85%,Linfield College
+367,85%,Ripon College
+368,85%,Southwestern University
+369,85%,Westminster College
+370,84%,Bennington College
+371,84%,College of Idaho
+372,84%,Lake Forest College
+373,84%,Susquehanna University
+374,84%,Whittier College
+375,83%,Agnes Scott College
+376,83%,Austin College
+377,83%,College of the Atlantic
+378,83%,Concordia College-- Moorhead
+379,83%,Morehouse College
+380,83%,New College of Florida
+381,83%,Saint Vincent College
+382,83%,St. Norbert College
+383,83%,Washington College
+384,82%,Berea College
+385,82%,Cornell College
+386,82%,Eckerd College
+387,82%,Fisk University
+388,82%,Gordon College
+389,82%,Goucher College
+390,82%,Hanover College
+391,82%,Lycoming College
+392,82%,McDaniel College
+393,82%,Presbyterian College
+394,82%,Principia College
+395,82%,Purchase College-- SUNY
+396,82%,University of Minnesota-- Morris
+397,81%,Albion College
+398,81%,Birmingham- Southern College
+399,81%,Central College
+400,81%,Ohio Wesleyan University
+401,80%,Alma College
+402,80%,Coe College
+403,80%,Hampden- Sydney College
+404,80%,Millsaps College
+405,80%,Nebraska Wesleyan University
+406,80%,Roanoke College
+407,80%,Simpson College
+408,79%,Drew University
+409,79%,Goshen College
+410,79%,Randolph- Macon College
+411,79%,SUNY College-- Old Westbury
+412,79%,University of North Carolina-- Asheville
+413,78%,Berry College
+414,78%,Eastern Mennonite University
+415,78%,Illinois College
+416,78%,Moravian College
+417,78%,Ouachita Baptist University
+418,78%,Pacific Union College
+419,78%,Salem College
+420,78%,Wartburg College
+421,78%,Wesleyan College
+422,78%,Wittenberg University
+423,77%,Carthage College
+424,77%,Tougaloo College
+425,76%,Bridgewater College
+426,76%,Massachusetts College of Liberal Arts
+427,76%,Monmouth College
+428,76%,Oglethorpe University
+429,76%,Randolph College
+430,76%,William Jewell College
+431,76%,Wisconsin Lutheran College
+432,75%,Bay Path University
+433,75%,Doane College
+434,75%,Hartwick College
+435,74%,Albright College
+436,74%,Hiram College
+437,74%,Marlboro College
+438,73%,Centenary College of Louisiana
+439,73%,Claflin University
+440,73%,Emory and Henry College
+441,73%,Guilford College
+442,73%,Simpson University
+443,72%,Bethany Lutheran College
+444,72%,Georgetown College
+445,72%,Maryville College
+446,71%,Ave Maria University
+447,71%,Castleton State College
+448,71%,Erskine College
+449,71%,Hollins University
+450,71%,Shorter University
+451,71%,Wells College
+452,70%,Eastern Nazarene College
+453,70%,Green Mountain College
+454,70%,Savannah State University
+455,69%,Lyon College
+456,69%,Marymount Manhattan College
+457,69%,Northland College
+458,69%,University of Hawaii-- Hilo
+459,69%,University of Maine-- Machias
+460,69%,University of Science and Arts of Oklahoma
+461,69%,Xavier University of Louisiana
+462,68%,American Jewish University
+463,68%,University of Virginia-- Wise
+464,67%,Bloomfield College
+465,67%,Johnson C. Smith University
+466,67%,University of Wisconsin-- Parkside
+467,67%,Warren Wilson College
+468,67%,William Peace University
+469,66%,Dillard University
+470,66%,Life University
+471,66%,San Diego Christian College
+472,66%,Virginia Wesleyan College
+473,66%,Western State Colorado University
+474,65%,Colorado Mesa University
+475,65%,The King's College
+476,64%,Bryn Athyn College of the New Church
+477,63%,Fort Lewis College
+478,61%,Bennett College
+479,61%,Bethany College
+480,61%,Holy Cross College
+481,61%,Rust College
+482,61%,Stillman College
+483,60%,Judson College
+484,60%,Pine Manor College
+485,59%,Harrisburg University of Science and Technology
+486,58%,Brevard College
+487,57%,Huston- Tillotson University
+488,56%,Louisiana State University-- Alexandria
+489,55%,West Virginia State University
+490,54%,Allen University
+491,53%,Shawnee State University
+492,52%,University of Pikeville
+493,50%,Lane College
+494,48%,Kentucky State University
+495,44%,Burlington College
+496,31%,East- West University
+497,94%,Bentley University
+498,94%,College of New Jersey
+499,94%,Villanova University
+500,91%,Marist College
+501,91%,Providence College
+502,90%,CUNY-- Baruch College
+503,90%,SUNY-- Geneseo
+504,89%,Molloy College
+505,89%,St. Joseph's University
+506,89%,University of Scranton
+507,88%,Bryant University
+508,88%,Emerson College
+509,88%,Fairfield University
+510,88%,Loyola University Maryland
+511,88%,Ramapo College of New Jersey
+512,88%,SUNY-- New Paltz
+513,87%,Quinnipiac University
+514,87%,Rochester Institute of Technology
+515,87%,West Chester University of Pennsylvania
+516,86%,CUNY-- Hunter College
+517,86%,CUNY-- Queens College
+518,86%,Le Moyne College
+519,86%,Manhattan College
+520,86%,Rowan University
+521,86%,Simmons College
+522,86%,Stockton University
+523,86%,SUNY College-- Oneonta
+524,85%,CUNY-- City College
+525,85%,Ithaca College
+526,85%,St. Joseph's College New York
+527,85%,Towson University
+528,84%,Albertus Magnus College
+529,84%,CUNY-- Brooklyn College
+530,84%,Endicott College
+531,84%,Pratt Institute
+532,84%,Springfield College
+533,84%,Wagner College
+534,83%,Assumption College
+535,83%,Canisius College
+536,83%,CUNY-- College of Staten Island
+537,83%,DeSales University
+538,83%,Iona College
+539,83%,Misericordia University
+540,83%,Montclair State University
+541,83%,Salisbury University
+542,82%,College at Brockport-- SUNY
+543,82%,CUNY-- Lehman College
+544,82%,Marywood University
+545,82%,Nazareth College
+546,82%,Niagara University
+547,82%,"Rutgers, The State University of New Jersey-- Camden"
+548,82%,Slippery Rock University of Pennsylvania
+549,82%,St. Bonaventure University
+550,82%,SUNY College-- Cortland
+551,82%,SUNY-- Plattsburgh
+552,81%,Arcadia University
+553,81%,Bridgewater State University
+554,81%,Emmanuel College
+555,81%,La Salle University
+556,81%,Monmouth University
+557,81%,Salve Regina University
+558,81%,St. Francis University
+559,81%,Waynesburg University
+560,80%,Bloomsburg University of Pennsylvania
+561,80%,Eastern University
+562,80%,Gannon University
+563,80%,Gwynedd Mercy University
+564,80%,Mercyhurst University
+565,80%,Millersville University of Pennsylvania
+566,80%,Mount St. Mary's University
+567,80%,Rider University
+568,80%,Robert Morris University
+569,80%,Roberts Wesleyan College
+570,80%,Roger Williams University
+571,80%,Sacred Heart University
+572,80%,SUNY-- Fredonia
+573,80%,Wilkes University
+574,80%,Worcester State University
+575,79%,Daemen College
+576,79%,SUNY-- Oswego
+577,79%,Westfield State University
+578,78%,Caldwell University
+579,78%,College of St. Rose
+580,78%,CUNY-- John Jay College of Criminal Justice
+581,78%,Norwich University
+582,78%,University of Baltimore
+583,77%,California University of Pennsylvania
+584,77%,Central Connecticut State University
+585,77%,Eastern Connecticut State University
+586,77%,Hood College
+587,77%,Johnson & Wales University
+588,77%,Keene State College
+589,77%,King's College
+590,77%,Lesley University
+591,77%,Rhode Island College
+592,77%,Rivier University
+593,77%,The Sage Colleges
+594,77%,Salem State University
+595,77%,St. Peter's University
+596,77%,St. Thomas Aquinas College
+597,77%,SUNY College-- Potsdam
+598,77%,University of New Haven
+599,77%,University of St. Joseph
+600,77%,William Paterson University of New Jersey
+601,76%,Cairn University
+602,76%,Centenary College
+603,76%,Fitchburg State University
+604,76%,Holy Family University
+605,76%,Philadelphia University
+606,76%,Point Park University
+607,76%,Suffolk University
+608,76%,University of Massachusetts-- Dartmouth
+609,76%,University of New England
+610,76%,York College of Pennsylvania
+611,75%,Chatham University
+612,75%,Chestnut Hill College
+613,75%,D'Youville College
+614,75%,Kean University
+615,75%,Monroe College
+616,75%,Notre Dame of Maryland University
+617,75%,Southern Connecticut State University
+618,75%,Stevenson University
+619,75%,SUNY Buffalo State
+620,75%,SUNY Polytechnic Institute
+621,74%,Alfred University
+622,74%,Alvernia University
+623,74%,Cabrini College
+624,74%,Fairleigh Dickinson University
+625,74%,Felician College
+626,74%,Framingham State University
+627,74%,Frostburg State University
+628,74%,Kutztown University of Pennsylvania
+629,74%,Manhattanville College
+630,74%,New York Institute of Technology
+631,74%,Plymouth State University
+632,74%,Southern New Hampshire University
+633,74%,Western Connecticut State University
+634,74%,Western New England University
+635,73%,Husson University
+636,73%,Keuka College
+637,73%,Mansfield University of Pennsylvania
+638,73%,Touro College
+639,73%,University of Hartford
+640,72%,Carlow University
+641,72%,Clarion University of Pennsylvania
+642,72%,Neumann University
+643,72%,Rosemont College
+644,72%,St. Joseph's College
+645,71%,College of Mount St. Vincent
+646,71%,College of New Rochelle
+647,71%,East Stroudsburg University of Pennsylvania
+648,71%,Edinboro University of Pennsylvania
+649,71%,Gallaudet University
+650,71%,Lincoln University
+651,71%,LIU Post
+652,71%,Mount St. Mary College
+653,71%,Shippensburg University of Pennsylvania
+654,71%,Wheelock College
+655,70%,New Jersey City University
+656,70%,University of Maryland-- Eastern Shore
+657,69%,Coppin State University
+658,69%,Curry College
+659,69%,Georgian Court University
+660,69%,Lock Haven University of Pennsylvania
+661,69%,Utica College
+662,68%,College of St. Elizabeth
+663,68%,Dominican College
+664,67%,Nyack College
+665,66%,Delaware State University
+666,66%,Dowling College
+667,66%,University of Southern Maine
+668,65%,American International College
+669,65%,Anna Maria College
+670,65%,Franklin Pierce University
+671,65%,Medaille College
+672,62%,University of Bridgeport
+673,60%,New England College
+674,56%,College of St. Joseph
+675,55%,Cheyney University of Pennsylvania
+676,55%,Trinity Washington University
+677,54%,University of the District of Columbia
+678,42%,Metropolitan College of New York
+679,91%,Kettering University
+680,90%,Butler University
+681,90%,Creighton University
+682,88%,Drake University
+683,88%,John Carroll University
+684,88%,Truman State University
+685,87%,Bradley University
+686,86%,Franciscan University of Steubenville
+687,86%,Rockhurst University
+688,86%,University of Wisconsin-- La Crosse
+689,85%,University of Evansville
+690,85%,Valparaiso University
+691,84%,Bethel University
+692,83%,Drury University
+693,83%,Madonna University
+694,83%,University of Northern Iowa
+695,83%,University of Wisconsin-- Eau Claire
+696,83%,Xavier University
+697,82%,College of St. Scholastica
+698,82%,Dominican University
+699,82%,Grand Valley State University
+700,82%,University of Michigan-- Dearborn
+701,81%,Baldwin Wallace University
+702,81%,Hamline University
+703,81%,Lewis University
+704,81%,Milwaukee School of Engineering
+705,81%,St. Catherine University
+706,81%,University of Detroit Mercy
+707,81%,Viterbo University
+708,80%,Elmhurst College
+709,80%,University of St. Francis
+710,80%,University of Wisconsin-- Stevens Point
+711,79%,Augsburg College
+712,79%,Concordia University
+713,79%,Lawrence Technological University
+714,79%,North Central College
+715,79%,University of Findlay
+716,79%,University of Wisconsin-- Whitewater
+717,79%,Webster University
+718,78%,Carroll University
+719,78%,Eastern Illinois University
+720,78%,St. Ambrose University
+721,78%,University of Nebraska-- Kearney
+722,78%,Winona State University
+723,77%,Aquinas College
+724,77%,Baker University
+725,77%,Indiana Wesleyan University
+726,77%,McKendree University
+727,77%,University of Mary
+728,77%,University of Wisconsin-- Platteville
+729,76%,Anderson University
+730,76%,Missouri State University
+731,76%,Mount Vernon Nazarene University
+732,76%,North Park University
+733,76%,Otterbein University
+734,76%,Spring Arbor University
+735,76%,University of Minnesota-- Duluth
+736,76%,University of Wisconsin-- Oshkosh
+737,75%,Capital University
+738,75%,Oakland City University
+739,75%,Olivet Nazarene University
+740,75%,University of Illinois-- Springfield
+741,75%,Walsh University
+742,74%,Concordia University Wisconsin
+743,74%,Cornerstone University
+744,74%,Eastern Michigan University
+745,74%,Minnesota State University-- Mankato
+746,74%,University of Indianapolis
+747,74%,University of Michigan-- Flint
+748,74%,University of Wisconsin-- Green Bay
+749,74%,William Woods University
+750,73%,Ferris State University
+751,73%,Fontbonne University
+752,73%,Northern Michigan University
+753,73%,Southeast Missouri State University
+754,73%,St. Xavier University
+755,73%,University of Wisconsin-- Stout
+756,72%,Alverno College
+757,72%,Aurora University
+758,72%,College of St. Mary
+759,72%,Pittsburg State University
+760,72%,University of Wisconsin-- River Falls
+761,71%,Emporia State University
+762,71%,Lindenwood University
+763,71%,Mount Mary University
+764,71%,Mount St. Joseph University
+765,71%,Newman University
+766,71%,Quincy University
+767,71%,Southern Illinois University-- Edwardsville
+768,71%,University of Saint Francis
+769,70%,Avila University
+770,70%,Concordia University-- St. Paul
+771,70%,Lakeland College
+772,70%,Muskingum University
+773,70%,Purdue University-- Calumet
+774,70%,Saginaw Valley State University
+775,70%,St. Cloud State University
+776,70%,University of Wisconsin-- Superior
+777,70%,Ursuline College
+778,69%,Davenport University
+779,69%,Malone University
+780,69%,Marian University
+781,69%,University of Central Missouri
+782,69%,Western Illinois University
+783,68%,Bemidji State University
+784,68%,Fort Hays State University
+785,68%,Minnesota State University-- Moorhead
+786,68%,Northwest Missouri State University
+787,68%,Southwest Minnesota State University
+788,68%,University of Southern Indiana
+789,68%,Youngstown State University
+790,67%,Columbia College Chicago
+791,67%,Marygrove College
+792,67%,Ohio Dominican University
+793,67%,University of Dubuque
+794,67%,Wayne State College
+795,66%,Graceland University
+796,66%,Indiana University Northwest
+797,66%,Lake Erie College
+798,66%,Minot State University
+799,66%,Tiffin University
+800,66%,Upper Iowa University
+801,65%,Concordia University Chicago
+802,65%,Dakota State University
+803,65%,Heidelberg University
+804,65%,Washburn University
+805,64%,Indiana University-- South Bend
+806,64%,Park University
+807,64%,Siena Heights University
+808,64%,Southwest Baptist University
+809,64%,Southwestern College
+810,63%,Indiana University- Purdue University-- Fort Wayne
+811,63%,Rockford University
+812,63%,University of St. Mary
+813,62%,Indiana University Southeast
+814,62%,Missouri Baptist University
+815,62%,Northeastern Illinois University
+816,62%,Roosevelt University
+817,61%,Metropolitan State University
+818,60%,Black Hills State University
+819,60%,Lourdes University
+820,58%,Calumet College of St. Joseph
+821,53%,Chicago State University
+822,95%,Santa Clara University
+823,93%,California Polytechnic State University-- San Luis Obispo
+824,93%,Gonzaga University
+825,91%,Chapman University
+826,91%,Loyola Marymount University
+827,90%,California State Polytechnic University-- Pomona
+828,90%,University of Portland
+829,89%,California State University-- Long Beach
+830,89%,California State University-- San Bernardino
+831,89%,Trinity University
+832,88%,California State University-- Fullerton
+833,88%,St. Mary's College of California
+834,88%,University of Redlands
+835,87%,California State University-- Chico
+836,87%,Seattle University
+837,86%,California State University-- Stanislaus
+838,86%,San Jose State University
+839,86%,Whitworth University
+840,85%,Point Loma Nazarene University
+841,85%,Seattle Pacific University
+842,84%,California Lutheran University
+843,84%,California State University-- Fresno
+844,84%,Western Washington University
+845,83%,Dominican University of California
+846,83%,Regis University
+847,82%,California State University-- Los Angeles
+848,82%,California State University-- Sacramento
+849,82%,George Fox University
+850,82%,Pacific Lutheran University
+851,82%,San Francisco State University
+852,82%,St. Edward's University
+853,81%,California State University-- Monterey Bay
+854,81%,California State University-- San Marcos
+855,81%,Sonoma State University
+856,80%,Mount Saint Mary's University
+857,80%,Oral Roberts University
+858,79%,California Baptist University
+859,79%,California State University-- Dominguez Hills
+860,79%,Oklahoma City University
+861,79%,Pacific University
+862,79%,University of Dallas
+863,79%,Walla Walla University
+864,78%,California State University-- Channel Islands
+865,78%,Fresno Pacific University
+866,78%,LeTourneau University
+867,78%,Notre Dame de Namur University
+868,78%,St. Martin's University
+869,78%,Texas A&M International University
+870,78%,Woodbury University
+871,77%,California State University-- East Bay
+872,77%,Central Washington University
+873,77%,La Sierra University
+874,77%,Mills College
+875,77%,Texas State University
+876,76%,Abilene Christian University
+877,76%,California State University-- Northridge
+878,76%,Eastern Washington University
+879,76%,New Mexico Institute of Mining and Technology
+880,76%,Northwest Nazarene University
+881,76%,Oklahoma Christian University
+882,75%,Humboldt State University
+883,74%,University of the Incarnate Word
+884,73%,Alaska Pacific University
+885,73%,California State University-- Bakersfield
+886,73%,Chaminade University of Honolulu
+887,73%,Holy Names University
+888,73%,St. Mary's University of San Antonio
+889,72%,Boise State University
+890,72%,Dallas Baptist University
+891,72%,Evergreen State College
+892,72%,University of Alaska-- Anchorage
+893,71%,Sierra Nevada College
+894,71%,Weber State University
+895,70%,Southern Oregon University
+896,70%,Western Oregon University
+897,69%,Colorado Christian University
+898,69%,Hawaii Pacific University
+899,69%,Midwestern State University
+900,69%,Prescott College
+901,69%,University of Colorado-- Colorado Springs
+902,68%,Tarleton State University
+903,67%,Lubbock Christian University
+904,67%,University of Mary Hardin- Baylor
+905,66%,Houston Baptist University
+906,66%,Prairie View A&M University
+907,66%,Southern Utah University
+908,66%,Southwestern Assemblies of God University
+909,66%,Stephen F. Austin State University
+910,65%,Eastern Oregon University
+911,65%,Hardin- Simmons University
+912,65%,Southwestern Oklahoma State University
+913,65%,University of Texas of the Permian Basin
+914,65%,West Texas A&M University
+915,64%,Northeastern State University
+916,64%,University of Texas-- Tyler
+917,63%,Colorado State University-- Pueblo
+918,63%,East Central University
+919,62%,Northwestern Oklahoma State University
+920,62%,Texas Wesleyan University
+921,61%,Eastern New Mexico University
+922,59%,Angelo State University
+923,59%,Cameron University
+924,59%,Grand Canyon University
+925,58%,Southeastern Oklahoma State University
+926,58%,University of Central Oklahoma
+927,57%,Montana State University-- Billings
+928,56%,Adams State University
+929,53%,Concordia University Texas
+930,53%,Southern Nazarene University
+931,51%,Sul Ross State University
+932,48%,Wayland Baptist University
+933,42%,Texas A&M University-- Texarkana
+934,92%,Union University
+935,90%,Elon University
+936,88%,Appalachian State University
+937,88%,James Madison University
+938,87%,Samford University
+939,86%,University of North Carolina-- Wilmington
+940,85%,Christopher Newport University
+941,85%,Georgia College & State University
+942,84%,The Citadel
+943,83%,Rollins College
+944,83%,University of North Florida
+945,82%,College of Charleston
+946,82%,Harding University
+947,82%,Mercer University
+948,82%,University of Mary Washington
+949,81%,Belmont University
+950,80%,Bellarmine University
+951,80%,University of North Georgia
+952,79%,Columbia International University
+953,79%,Longwood University
+954,79%,Winston- Salem State University
+955,78%,Christian Brothers University
+956,78%,Loyola University New Orleans
+957,78%,Stetson University
+958,77%,Embry- Riddle Aeronautical University
+959,77%,Hampton University
+960,77%,Kennesaw State University
+961,77%,Liberty University
+962,77%,Shenandoah University
+963,77%,University of Montevallo
+964,76%,Florida Gulf Coast University
+965,76%,Lipscomb University
+966,76%,Radford University
+967,76%,Western Carolina University
+968,76%,William Carey University
+969,75%,Campbell University
+970,75%,Lee University
+971,75%,Spring Hill College
+972,74%,Freed- Hardeman University
+973,74%,Lynchburg College
+974,74%,Marymount University
+975,74%,Mississippi University for Women
+976,74%,Piedmont College
+977,74%,University of Tampa
+978,74%,Winthrop University
+979,73%,Fayetteville State University
+980,73%,Mississippi College
+981,73%,North Carolina Central University
+982,73%,Tennessee Technological University
+983,73%,University of Tennessee-- Martin
+984,73%,Wingate University
+985,72%,Arkansas State University
+986,72%,King University
+987,72%,Murray State University
+988,72%,Palm Beach Atlantic University
+989,72%,University of West Georgia
+990,72%,Western Kentucky University
+991,71%,Gardner- Webb University
+992,71%,Marshall University
+993,71%,Our Lady of Holy Cross College
+994,71%,Queens University of Charlotte
+995,71%,Troy University
+996,71%,University of North Alabama
+997,70%,Alcorn State University
+998,70%,Florida Memorial University
+999,70%,Jacksonville State University
+1000,70%,Lincoln Memorial University
+1001,70%,Nicholls State University
+1002,70%,Northwestern State University of Louisiana
+1003,70%,University of Central Arkansas
+1004,69%,Austin Peay State University
+1005,69%,Campbellsville University
+1006,69%,Columbus State University
+1007,69%,Converse College
+1008,69%,Georgia Regents University
+1009,69%,Grambling State University
+1010,69%,McNeese State University
+1011,69%,Morehead State University
+1012,69%,Saint Leo University
+1013,69%,Southern University and A&M College
+1014,69%,University of Louisiana-- Monroe
+1015,69%,University of Tennessee-- Chattanooga
+1016,69%,Valdosta State University
+1017,68%,Albany State University
+1018,68%,Arkansas Tech University
+1019,68%,Armstrong State University
+1020,68%,Pfeiffer University
+1021,68%,St. Thomas University
+1022,67%,Alabama Agricultural and Mechanical University
+1023,67%,Brenau University
+1024,67%,Francis Marion University
+1025,67%,Jacksonville University
+1026,67%,Northern Kentucky University
+1027,67%,Shepherd University
+1028,67%,Thomas More College
+1029,66%,Columbia College
+1030,66%,Cumberland University
+1031,66%,Eastern Kentucky University
+1032,66%,Georgia Southwestern State University
+1033,66%,Louisiana State University-- Shreveport
+1034,66%,Southern Wesleyan University
+1035,66%,University of North Carolina-- Pembroke
+1036,66%,University of South Florida-- St. Petersburg
+1037,66%,Warner University
+1038,65%,Belhaven University
+1039,65%,Charleston Southern University
+1040,65%,Delta State University
+1041,65%,Mississippi Valley State University
+1042,65%,Southeastern Louisiana University
+1043,65%,Virginia State University
+1044,64%,Fairmont State University
+1045,63%,Coastal Carolina University
+1046,63%,Mary Baldwin College
+1047,62%,Southern Arkansas University
+1048,61%,Montreat College
+1049,60%,Auburn University-- Montgomery
+1050,60%,University of the Cumberlands
+1051,59%,Alabama State University
+1052,59%,Henderson State University
+1053,58%,University of West Alabama
+1054,57%,Lindsey Wilson College
+1055,57%,Tusculum College
+1056,52%,Southern University-- New Orleans
+1057,45%,South University
+1058,88%,Taylor University
+1059,87%,Ohio Northern University
+1060,86%,Cedarville University
+1061,86%,College of the Ozarks
+1062,85%,Martin Luther College
+1063,82%,Augustana University
+1064,82%,Wilmington College
+1065,81%,Bethel College
+1066,81%,Dordt College
+1067,81%,Grace College and Seminary
+1068,80%,Huntington University
+1069,80%,Loras College
+1070,80%,Trinity Christian College
+1071,79%,Clarke University
+1072,79%,Mount Mercy University
+1073,78%,Benedictine College
+1074,78%,Millikin University
+1075,78%,University of Northwestern-- St. Paul
+1076,77%,Northwestern College
+1077,76%,Franklin College
+1078,76%,Marietta College
+1079,75%,Saint Mary- of- the- Woods College
+1080,75%,University of Mount Union
+1081,74%,Wilberforce University
+1082,73%,Buena Vista University
+1083,73%,Morningside College
+1084,72%,Evangel University
+1085,72%,Grace University
+1086,72%,Hastings College
+1087,72%,Trine University
+1088,71%,Judson University
+1089,71%,Lake Superior State University
+1090,71%,Maranatha Baptist University
+1091,70%,Greenville College
+1092,70%,Manchester University
+1093,70%,Silver Lake College
+1094,70%,University of Minnesota-- Crookston
+1095,69%,Culver- Stockton College
+1096,69%,Grand View University
+1097,69%,Northern State University
+1098,69%,York College
+1099,68%,Mount Marty College
+1100,68%,University of Sioux Falls
+1101,67%,Blackburn College
+1102,67%,Bluffton University
+1103,67%,Dakota Wesleyan University
+1104,67%,Kuyper College
+1105,67%,North Central University
+1106,67%,Stephens College
+1107,67%,Sterling College
+1108,67%,University of Jamestown
+1109,66%,Grace Bible College
+1110,66%,Indiana University East
+1111,66%,Midland University
+1112,65%,Olivet College
+1113,64%,Adrian College
+1114,64%,Central Methodist University
+1115,64%,MacMurray College
+1116,64%,Ohio Christian University
+1117,63%,Eureka College
+1118,63%,Indiana University-- Kokomo
+1119,63%,Missouri Southern State University
+1120,62%,Briar Cliff University
+1121,62%,Notre Dame College of Ohio
+1122,62%,Tabor College
+1123,61%,Missouri Western State University
+1124,61%,Valley City State University
+1125,60%,Central Christian College
+1126,60%,Hannibal- LaGrange University
+1127,60%,Rochester College
+1128,59%,William Penn University
+1129,58%,Defiance College
+1130,58%,Kansas Wesleyan University
+1131,58%,Ottawa University
+1132,58%,Presentation College
+1133,58%,Purdue University-- North Central
+1134,57%,Finlandia University
+1135,57%,McPherson College
+1136,56%,Dickinson State University
+1137,56%,Kendall College
+1138,53%,Mayville State University
+1139,51%,Central State University
+1140,50%,Crown College
+1141,50%,Dunwoody College of Technology
+1142,49%,Waldorf College
+1143,47%,Iowa Wesleyan College
+1144,46%,Harris- Stowe State University
+1145,44%,Missouri Valley College
+1146,43%,Herzing University
+1147,43%,Lincoln College
+1148,82%,California Maritime Academy
+1149,82%,Master's College and Seminary
+1150,81%,Carroll College
+1151,79%,Northwest University
+1152,78%,Menlo College
+1153,76%,Oklahoma Baptist University
+1154,76%,Vanguard University of Southern California
+1155,75%,Corban University
+1156,73%,University of Montana-- Western
+1157,72%,Oregon Institute of Technology
+1158,71%,Hope International University
+1159,71%,Texas Lutheran University
+1160,69%,Montana Tech of the University of Montana
+1161,69%,Rocky Mountain College
+1162,68%,Brigham Young University-- Idaho
+1163,67%,Trinity Lutheran College
+1164,67%,Warner Pacific College
+1165,66%,Northwest Christian University
+1166,66%,Schreiner University
+1167,64%,Metropolitan State University of Denver
+1168,64%,University of Houston-- Downtown
+1169,63%,Southwestern Adventist University
+1170,62%,University of Great Falls
+1171,61%,Brigham Young University-- Hawaii
+1172,61%,Utah Valley University
+1173,60%,Rogers State University
+1174,60%,St. Gregory's University
+1175,59%,Montana State University-- Northern
+1176,59%,Oklahoma Wesleyan University
+1177,59%,Southwestern Christian University
+1178,58%,Howard Payne University
+1179,58%,McMurry University
+1180,57%,East Texas Baptist University
+1181,57%,Lewis- Clark State College
+1182,55%,Jarvis Christian College
+1183,55%,Oklahoma State University Institute of Technology-- Okmulgee
+1184,50%,Wiley College
+1185,45%,University of the Southwest
+1186,94%,Cooper Union
+1187,92%,United States Coast Guard Academy
+1188,91%,United States Merchant Marine Academy
+1189,89%,Massachusetts Maritime Academy
+1190,86%,Messiah College
+1191,85%,Lebanon Valley College
+1192,83%,Elizabethtown College
+1193,83%,Merrimack College
+1194,83%,SUNY College of Technology-- Alfred
+1195,82%,College of Our Lady of the Elms
+1196,82%,Farmingdale State College-- SUNY
+1197,81%,Wentworth Institute of Technology
+1198,80%,Maine Maritime Academy
+1199,80%,St. Francis College
+1200,80%,SUNY Maritime College
+1201,79%,Champlain College
+1202,79%,Geneva College
+1203,77%,Seton Hill University
+1204,76%,Bard College at Simon's Rock
+1205,76%,CUNY-- New York City College of Technology
+1206,76%,CUNY-- York College
+1207,76%,Elmira College
+1208,76%,SUNY College of Agriculture and Technology-- Cobleskill
+1209,76%,SUNY College of Technology-- Canton
+1210,75%,Unity College
+1211,74%,University of Valley Forge
+1212,74%,Vaughn College of Aeronautics and Technology
+1213,74%,Vermont Technical College
+1214,73%,University of Maine-- Farmington
+1215,72%,Concordia College
+1216,72%,Delaware Valley University
+1217,71%,Cedar Crest College
+1218,71%,La Roche College
+1219,71%,Lasell College
+1220,70%,SUNY College of Technology-- Delhi
+1221,69%,Paul Smith's College
+1222,69%,Pennsylvania College of Technology
+1223,69%,Wilson College
+1224,68%,Cazenovia College
+1225,68%,Washington Adventist University
+1226,66%,Daniel Webster College
+1227,66%,Keystone College
+1228,66%,Morrisville State College
+1229,65%,Dean College
+1230,65%,Nichols College
+1231,65%,Thomas College
+1232,64%,Becker College
+1233,64%,Lyndon State College
+1234,64%,Mount Aloysius College
+1235,64%,Thiel College
+1236,62%,Fisher College
+1237,62%,Mount Ida College
+1238,62%,Southern Vermont College
+1239,62%,University of Maine-- Fort Kent
+1240,62%,University of Maine-- Presque Isle
+1241,60%,Five Towns College
+1242,52%,University of Maine-- Augusta
+1243,47%,Wesley College
+1244,44%,Post University
+1245,85%,Covenant College
+1246,83%,Midway College
+1247,82%,John Brown University
+1248,82%,Keiser University
+1249,82%,Milligan College
+1250,81%,Asbury University
+1251,78%,Florida Southern College
+1252,77%,High Point University
+1253,77%,Oakwood University
+1254,76%,Elizabeth City State University
+1255,76%,Tuskegee University
+1256,75%,Meredith College
+1257,75%,Southern Adventist University
+1258,75%,University of Mobile
+1259,72%,Blue Mountain College
+1260,72%,Coker College
+1261,72%,North Greenville University
+1262,71%,Barton College
+1263,71%,Wheeling Jesuit University
+1264,70%,Catawba College
+1265,70%,Flagler College
+1266,70%,Toccoa Falls College
+1267,69%,Clayton State University
+1268,69%,West Liberty University
+1269,68%,Bryan College
+1270,68%,Lander University
+1271,68%,Newberry College
+1272,68%,University of South Carolina-- Upstate
+1273,67%,University of South Carolina-- Aiken
+1274,67%,West Virginia Wesleyan College
+1275,66%,Bethune- Cookman University
+1276,66%,Carson- Newman University
+1277,66%,Glenville State College
+1278,66%,Lenoir- Rhyne University
+1279,66%,Southeastern University
+1280,66%,Truett McConnell College
+1281,66%,University of Mount Olive
+1282,66%,University of the Ozarks
+1283,66%,Welch College
+1284,65%,Georgia Gwinnett College
+1285,65%,University of Charleston
+1286,64%,Belmont Abbey College
+1287,64%,Concord University
+1288,64%,Methodist University
+1289,64%,Philander Smith College
+1290,64%,University of Arkansas-- Fort Smith
+1291,63%,Tennessee Wesleyan College
+1292,62%,Alderson Broaddus University
+1293,62%,Huntingdon College
+1294,62%,Kentucky Christian University
+1295,62%,Kentucky Wesleyan College
+1296,62%,LaGrange College
+1297,62%,Lees- McRae College
+1298,62%,Reinhardt University
+1299,61%,Brescia University
+1300,61%,Louisiana College
+1301,60%,Alice Lloyd College
+1302,60%,Brewton- Parker College
+1303,60%,Central Baptist College
+1304,60%,Fort Valley State University
+1305,60%,Greensboro College
+1306,59%,Paine College
+1307,59%,Williams Baptist College
+1308,58%,Averett University
+1309,58%,Benedict College
+1310,58%,Faulkner University
+1311,58%,Limestone College
+1312,57%,Bluefield State College
+1313,57%,Mars Hill University
+1314,57%,Ohio Valley University
+1315,57%,St. Catharine College
+1316,57%,University of Arkansas-- Pine Bluff
+1317,56%,Thomas University
+1318,55%,Abraham Baldwin Agricultural College
+1319,55%,Point University
+1320,54%,Virginia Union University
+1321,53%,Bluefield College
+1322,53%,North Carolina Wesleyan College
+1323,53%,University of South Carolina-- Beaufort
+1324,52%,Livingstone College
+1325,51%,Edward Waters College
+1326,51%,Ferrum College
+1327,51%,Webber International University
+1328,50%,Davis and Elkins College
+1329,50%,LeMoyne- Owen College
+1330,49%,St. Augustine's University
+1331,46%,Chowan University
+1332,46%,Shaw University
+1333,46%,Voorhees College

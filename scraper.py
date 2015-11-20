@@ -1,0 +1,85 @@
+import requests
+import lxml.html
+from unidecode import unidecode
+import pandas as pd
+
+def generate_all_pages(base_url,length):
+    total_pages = [base_url]
+    for i in xrange(2,length+1):
+        total_pages.append(base_url+"/page+"+str(i))
+    return total_pages
+
+def get_pages(base_urls,num_pages):
+    total_pages_to_scrape = []
+    for ind,base_url in enumerate(base_urls):
+        total_pages_to_scrape += generate_all_pages(base_url,num_pages_per_base_url[ind])
+    responses = []
+    for page in total_pages_to_scrape:
+        responses.append(requests.get(page))
+    return responses
+
+def school_exists(school,data):
+    for datum in data:
+        if datum["school"] == school:
+            return True
+    return False
+
+def get_schools(responses):
+    data = []
+    for ind,r in enumerate(responses):
+        datum = []
+        html = lxml.html.fromstring(unidecode(r.text))
+        schools = [elem.text_content() for elem in html.xpath('//a[@class="school-name"]')]
+        retention_rates = [elem.text_content().strip() for elem in html.xpath('//td[contains(@class,"r_c_avg_pct_retention_sort")]')]
+        if len(schools) != len(retention_rates):
+            print ind,"occurred at response"
+            print len(schools),"schools"
+            print len(retention_rates),"retention_rates"
+            print "number of school names not equal the number of retention rates, for some reason, skipping!"
+            continue
+        for ind,school in enumerate(schools):
+            tmp = {"school":unidecode(school),"retention_rate":unidecode(retention_rates[ind])}
+            if not school_exists(school,data):
+                datum.append(tmp)
+        data += datum
+    return data
+                
+if __name__ == '__main__':
+    df = pd.DataFrame()
+    # "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-colleges/freshmen-least-most-likely-return",
+    base_urls= [
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-liberal-arts-colleges/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-universities-north/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-universities-midwest/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-universities-west/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-universities-south/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-colleges-midwest/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-colleges-west/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-colleges-north/freshmen-least-most-likely-return",
+        "http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/regional-colleges-south/freshmen-least-most-likely-return"
+    ]
+
+    num_pages_per_base_url = [
+        11, #national - universities
+        10, #liberal arts colleges
+        8, #regional - universities north
+        6, 
+        5,
+        6,
+        4,
+        2,
+        3,
+        4]
+
+    print "get_pages reached"
+    responses = get_pages(base_urls,num_pages_per_base_url)
+    
+    print "get_schools reached"
+    data = get_schools(responses)
+    print "appending to dataframe"
+    for datum in data:
+        df = df.append(datum,ignore_index=True)
+
+    print "saving to csv, retention_data.csv"
+    df.to_csv("retention_data.csv")
